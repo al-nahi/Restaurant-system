@@ -1,15 +1,12 @@
-# Restaurant-system
+# React + Vite
 
-1. Project folder ta extract koro
-2. VS code e open koro
-3. Niche theke terminal ta tan diye ber koro
-4. cd diye folder er bhitore dhuko
-5. npm i likhe enter e click koto
-6. tarpor npm run dev likhe enter click koro
-7. localhost.com/port number likha te (ctrl+left mouse click)
-8. chrome dekhba start hoye page
-9. video complete hoise - 
-(0 - 2.18, 2.36 - 3.36)hour 
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
+Currently, two official plugins are available:
 
-kisu na bujhle grp e boilo
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
